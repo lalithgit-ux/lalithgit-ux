@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Lalith</h1>
+<h1 align="center">Hi 👋, I'm Lalith manoj</h1>
 <h3 align="center">I'm a programmer. Currently studying in 3rd year. And passionate to work as a developer.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=lalithgit-ux&label=Profile%20views&color=0e75b6&style=flat" alt="lalithgit-ux" /> </p>
