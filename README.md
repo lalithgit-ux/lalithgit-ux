@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Lalith manoj</h1>
+<h1 align="center">Hi 👋, I'm Lalith Manoj</h1>
 <h3 align="center">I'm a programmer. Currently studying in 3rd year. And passionate to work as a developer.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=lalithgit-ux&label=Profile%20views&color=0e75b6&style=flat" alt="lalithgit-ux" /> </p>
@@ -24,3 +24,5 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=lalithgit-ux&show_icons=true&locale=en&layout=compact" alt="lalithgit-ux" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=lalithgit-ux&show_icons=true&locale=en" alt="lalithgit-ux" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=lalithgit-ux&" alt="lalithgit-ux" /></p>
