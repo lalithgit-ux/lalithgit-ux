@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=lalithgit-ux" alt="lalithgit-ux" /></a> </p>
 
-- 🌱 I’m currently learning **Jawa,and cloud computing**
+- 🌱 I’m currently learning **Java,and cloud computing**
 
 - 💬 Ask me about **You can ask me about my project and details about it.**
 
