@@ -27,5 +27,3 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=lalithgit-ux&theme=tokyonight&hide_border=false" /></p>
 ## Star History
-
-[![Star History Chart](https://api.star-history.com/svg?repos=x1xhlol/system-prompts-and-models-of-ai-tools&type=date&legend=top-left)](https://www.star-history.com/#x1xhlol/system-prompts-and-models-of-ai-tools&type=date&legend=top-left)
